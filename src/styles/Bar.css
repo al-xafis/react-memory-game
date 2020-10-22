@@ -1,0 +1,21 @@
+.bar {
+  width: 100vw;
+  height: 10vh;
+  background-color: red;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  color: white;
+}
+
+.bar h1 {
+  font-size: 5rem;
+}
+
+.score {
+  margin-left: auto;
+  margin-right: 2rem;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  align-self: flex-end;
+}
